@@ -1,0 +1,10 @@
+
+[doc]
+sphinx
+sphinx_rtd_theme
+
+[test]
+pytest
+pytest-asyncio
+mypy
+pycodestyle
